@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_master_category"
+            android:title="@string/master_category"/>
+        <item
+            android:id="@+id/nav_profile"
+            android:title="@string/profile"/>
+        <item
+            android:id="@+id/nav_change_password"
+            android:title="@string/change_password"/>
+        <item
+            android:id="@+id/nav_wishlist"
+            android:title="@string/wishlist_heading"/>
+
+        <item
+            android:id="@+id/nav_checkout"
+            android:title="@string/checkout"/>
+
+        <item
+            android:id="@+id/nav_order_history"
+            android:title="@string/order_history"/>
+
+        <item
+            android:id="@+id/nav_daily_exchange_rates"
+            android:title="@string/daily_exchange_rates"/>
+
+        <item
+            android:id="@+id/nav_faq"
+            android:title="@string/faq"/>
+
+        <item
+            android:id="@+id/nav_contact_us"
+            android:title="@string/contact_us"/>
+
+        <item
+            android:id="@+id/nav_wallet"
+            android:title="@string/wallet"/>
+
+        <item
+            android:id="@+id/sign_out_menu"
+            android:title="@string/sign_out"/>
+
+        <item
+            android:id="@+id/footer_spacer_1"
+            android:checkable="false"
+            android:enabled="false"
+            android:orderInCategory="200"
+            android:title="" />
+
+        <item
+            android:id="@+id/footer_spacer_2"
+            android:checkable="false"
+            android:enabled="false"
+            android:orderInCategory="200"
+            android:title="" />
+
+    </group>
+</menu>

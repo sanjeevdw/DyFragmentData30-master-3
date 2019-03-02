@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "501613993239",
+    "firebase_url": "https://godprice-10b6b.firebaseio.com",
+    "project_id": "godprice-10b6b",
+    "storage_bucket": "godprice-10b6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501613993239:android:ac286e66ef0332e1",
+        "android_client_info": {
+          "package_name": "com.example.android.dyfragmentdata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501613993239-9d9maru3i211pg3m3g41675lb5si12st.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.dyfragmentdata",
+            "certificate_hash": "bec820d7635f31a4526411a371fbd9bd4f003c2c"
+          }
+        },
+        {
+          "client_id": "501613993239-i65m9g45k68i7arlhv468j70hjmlq046.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC37jhBd8Rs_ziKWyIm0jIOrioL_5EnQfs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501613993239-i65m9g45k68i7arlhv468j70hjmlq046.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

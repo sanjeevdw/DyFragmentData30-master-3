@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:title="@string/home"/>
+        <item
+            android:id="@+id/nav_master_category"
+            android:title="@string/master_category"/>
+        <item
+            android:id="@+id/nav_login"
+            android:title="@string/login"/>
+        <item
+            android:id="@+id/nav_register"
+            android:title="@string/register"/>
+        <item
+            android:id="@+id/nav_forgot_password"
+            android:title="@string/forgot_password"/>
+
+        <item
+            android:id="@+id/nav_daily_exchange_rates"
+            android:title="@string/daily_exchange_rates"/>
+
+        <item
+            android:id="@+id/nav_faq"
+            android:title="@string/faq"/>
+
+        <item
+            android:id="@+id/nav_contact_us"
+            android:title="@string/contact_us"/>
+
+        <item
+            android:id="@+id/nav_merchant_login"
+            android:title="@string/merchant_login"/>
+    </group>
+</menu>
+
